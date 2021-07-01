@@ -1,0 +1,44 @@
+Teste 01 Linux
+Linux: A introdução ao sistema operacional
+=============================================================
+
+O que é uma "distro"?
+Uma distro é uma distribuição baseada no Kernel Linux.
+-------------------------------
+
+Marque abaixo a alternativa correta contendo 3 programas pré instalados no Ubuntu 20.04:
+Mozilla Firefox, Rhythmbox e Thunderbird.
+-------------------------------
+
+O que é a Doca?
+A Doca é a barra de tarefas do Ubuntu Linux.
+------------------------------------
+
+Em qual sistema o criador do Linux se baseou para sua criação?
+Unix.
+------------------------------------
+
+Qual a empresa criadora e mantenedora do Ubuntu?
+Canonical.
+-------------------------------------
+
+O que é o Linux?
+O Linux é o Kernel do Sistema Operacional.
+--------------------------------------
+
+O que é um software de virtualização de Sistemas Operacionais?
+É um software que permite criar máquinas virtuais com um ou mais sistemas dentro de um único ambiente.
+----------------------------------------
+
+O que é o Ubuntu Linux?
+É uma distribuição baseada no Kernel Linux, tendo sua base no Debian e amplamente aceita em todas as comunidades de usuários.
+-----------------------------------------
+
+Quem criou o Linux?
+Linus Torvalds.
+--------------------------------------------
+
+Marque a alternativa com 3 principais distribuições Linux:
+Ubuntu, Debian e Suse.
+-----------------------------------------------
+

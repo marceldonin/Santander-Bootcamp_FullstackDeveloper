@@ -1,0 +1,44 @@
+Teste 02 Linux
+Linux: Conhecendo o terminal Linux e seus atalhos
+=============================================================
+
+O que é o terminal no Linux?
+O terminal, Shell ou Konsole, é uma ferramenta de linha de comando do Linux.
+------------------------------------
+
+Qual comando abaixo repete o ultimo comando digitado no terminal?
+!!
+----------------------------------
+
+Qual o comando lista arquivos e diretórios no Linux?
+ls
+--------------------------------------
+
+Qual comando utilizado para copiar um arquivo?
+cp
+--------------------------------------
+
+Qual combinação de teclas de atalho finaliza o terminal?
+CTRL + D
+------------------------------------------------
+
+Qual comando remove um arquivo do Linux?
+rm
+-----------------------------------------------
+
+Qual das alternativa abaixo move um diretório de nome Ubuntu para a pasta pessoal?
+mv Ubuntu ~
+----------------------------------------------
+
+Qual comando cria diretórios no Linux?
+mkdir
+-----------------------------------------------
+
+Qual o comando usado para mover ou renomear arquivos ou diretórios?
+mv
+-------------------------------------------------
+
+Qual a sequência de teclas correta para acessar o terminal no Linux?
+CTRL + ALT + T
+--------------------------------------------------
+

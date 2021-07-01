@@ -1,0 +1,44 @@
+Teste 03 Linux
+Linux: Comandos para manipulação de arquivos e textos e redirecionamento
+=============================================================
+
+Qual comando utilizamos para criar um arquivo vazio de nome teste.txt?
+touch teste.txt
+-----------------------------
+
+José quer saber a explicação do comando ls, qual sequência de comandos ele deve usar?
+whatis ls
+-------------------------------
+
+Qual das opções abaixo utilizamos quando queremos redirecionar a saída de um comando para outro comando ou arquivo?
+Nenhuma das alternativas.
+----------------------------------
+
+Hugo deseja criar uma pasta com seu nome e logo em seguida, se houver sucesso na criação da pasta, abrir esta pasta no terminal. Qual sequência de comandos Hugo deve usar?
+mkdir Hugo && cd Hugo
+-------------------------------------
+
+Qual comando utilizado para exibir a data atual do sistema?
+date
+-------------------------------------
+
+Qual comando utilizado para exibir o conteúdo de um arquivo no terminal?
+cat
+---------------------------------------
+
+Qual comando para editarmos o arquivo teste.txt no editor nano?
+nano teste.txt
+--------------------------------------
+
+José quer exibir o calendário do mês de junho de 2019 na saída do terminal, qual sequência de comandos ele deve digitar?
+cal junho 2019
+----------------------------------------
+
+João deseja procurar seu nome em um arquivo chamado lista_nomes.txt, qual sequência de comandos ele deve usar?
+grep Joao lista_nomes.txt
+-------------------------------------------
+
+Qual comando utilizado para inverter a saída do conteúdo de um arquivo no terminal?
+tac
+-------------------------------------------
+
